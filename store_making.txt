@@ -1,0 +1,8 @@
+sab se pehly configure store le k aana hai (import { configureStore } from "@reduxjs/toolkit";)
+
+
+us store ko use krty huay 1 variable bnaya (export const store = configureStore({});)
+
+us k baad store.js ki file ko close krein ge
+
+us k baad bnayain ge reducers
